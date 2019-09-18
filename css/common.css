@@ -538,6 +538,7 @@ body {
 	font-size: 12px;
 	padding-left: 21px;
 	position: relative;
+	font-style: normal;
 }
 .footer__text_1::before {
 	content: "\f041";
