@@ -30,6 +30,7 @@ body {
 	font-size: 18px;
 	line-height: 21px;
 	font-weight: 700;
+	margin: 0;
 	padding-left: 100px;
 	width: 43%;
 }
@@ -231,6 +232,7 @@ body {
 	font-size: 50px;
 	line-height: 70px;
 	font-weight: 300;
+	margin: 0;
 	text-align: center;
 }
 .members {
@@ -318,6 +320,7 @@ body {
 	font-size: 50px;
 	font-weight: 300;
 	line-height: 70px;
+	margin: 0;
 	text-align: center;
 }
 .advantages__block {
